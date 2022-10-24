@@ -10,6 +10,9 @@
     color: blue;
     font-weight: 400;
 }
+.product-info{
+    padding: 10px;
+}
 .cart-button{
     background-color: #F0C14B;
     width: 150px;
